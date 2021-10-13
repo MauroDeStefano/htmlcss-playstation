@@ -6,8 +6,7 @@
   height: 90px;
 }
 
-.mds-jumbotron{
-  background-image: url("../img/jumbo-bg.png");
+.mds-bg{
   background-size: cover;
   background-position: center;
   min-height: 500px;
@@ -19,4 +18,12 @@
 
 .mds-img-jumbo{
   width: 250px;
+}
+
+.mds-bg-black{
+  background-color: #1F1F1F;
+}
+
+.mds-rounded{
+  border-radius: 15px;
 }

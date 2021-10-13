@@ -1,3 +1,11 @@
 svg{
   width: 100px;
 }
+
+.mds-jumbotron{
+  background-image: url("../img/jumbo-bg.png");
+}
+
+.mds-it-takes-two{
+  background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+}
