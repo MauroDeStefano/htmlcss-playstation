@@ -1,0 +1,22 @@
+.mds-top{
+  height: 50px;
+}
+
+.mds-nav{
+  height: 90px;
+}
+
+.mds-jumbotron{
+  background-image: url("../img/jumbo-bg.png");
+  background-size: cover;
+  background-position: center;
+  min-height: 500px;
+}
+
+.mds-mt-200{
+  margin-top: 200px;
+}
+
+.mds-img-jumbo{
+  width: 250px;
+}
