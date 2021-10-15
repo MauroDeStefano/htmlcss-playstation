@@ -1,6 +1,4 @@
-svg{
-  width: 100px;
-}
+/* *************BACKGROUNDS************ */
 
 .mds-jumbotron{
   background-image: url("../img/jumbo-bg.png");
@@ -10,10 +8,13 @@ svg{
   background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
 }
 
-footer{
-  background-color: #00439C;
-}
+/* ************* ///BACKGROUNDS************ */
 
+/********** NAV****** */
+
+svg{
+  width: 100px;
+}
 .nav{
   margin-bottom: 0;
 }
@@ -44,7 +45,17 @@ footer{
   margin:0 0 2px 2px ;
 }
 
-.mds-hover-translate:hover{
-  transform: translate(0, -20%);
-  cursor: pointer;
+/********** /// NAV****** */
+
+/*********** MAIN ***********/
+
+.mds-ps5-presentation{
+  font-weight: 600;
+}
+
+
+/******** FOOTER **********/
+
+footer{
+  background-color: #00439C;
 }
