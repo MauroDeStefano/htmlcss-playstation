@@ -13,3 +13,38 @@ svg{
 footer{
   background-color: #00439C;
 }
+
+.nav{
+  margin-bottom: 0;
+}
+
+.dropdown {
+  position: static;
+}
+
+.dropdown-menu { 
+  width: 100%; 
+  text-align: center;
+}
+
+.dropdown-menu>li {
+  display: inline-block; 
+}
+
+.dropdown-menu{
+  margin: -1px !important;
+  width: 100vw !important;
+  border: none !important;
+}
+
+.fa-chevron-up{
+  color: gray;
+  font-size: 10px;
+  text-align: center;
+  margin:0 0 2px 2px ;
+}
+
+.mds-hover-translate:hover{
+  transform: translate(0, -20%);
+  cursor: pointer;
+}

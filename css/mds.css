@@ -59,3 +59,23 @@
 .mds-footer-img{
   width: 120px;
 }
+
+/* TRANSITIONS */
+
+.mds-hover-translate{
+  transition: all 1s ;
+}
+
+.mds-jumbotron {
+  animation-name: appear;
+  animation-duration: 4s;
+}
+
+@keyframes appear{
+  from {
+    background-position: right;
+  }
+  to{
+    background-position: center;
+  }
+}
